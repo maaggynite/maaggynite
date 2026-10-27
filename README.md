@@ -4,7 +4,7 @@
 
 **Tools:** Excel · Power BI · Tableau · R (tidyverse, ggplot2, dplyr)
 
-🌐 Portfolio: https://yourusername.github.io
+🌐 Portfolio: https://maagynite.github.io
 💼 LinkedIn: https://linkedin.com/in/margaret-anyango-nite
 📧 Email: margaretnite@gmail.com
 
